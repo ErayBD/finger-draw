@@ -36,3 +36,20 @@ Follow the steps below to set up and run the project on your local machine.
 - ***Drawing:*** Use your *INDEX* finger to draw on the screen.
 - ***Clearing the Screen:*** Hold up all *FIVE* fingers to clear the canvas.
 - ***Sending Drawing to AI:*** Hold up your *THUMB*, *INDEX*, and *PINKY* fingers (while the other two fingers are down) to send the drawing to the AI for interpretation.
+
+<br>
+
+### 6. Project Screenshots:
+![1](https://github.com/user-attachments/assets/8b229d83-b98d-4eb6-a16b-ebe88715c72d)
+
+<br>
+
+![2](https://github.com/user-attachments/assets/08ca89ba-97e3-4d8c-bde0-cc332b599950)
+
+<br>
+
+![3](https://github.com/user-attachments/assets/a3fb5184-77de-4232-94f0-abf31b8391c2)
+
+
+
+
