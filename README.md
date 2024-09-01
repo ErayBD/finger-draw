@@ -12,7 +12,6 @@ Follow the steps below to set up and run the project on your local machine.
 ### 2. Installation
 #### Clone the repository:
 - ``` git clone https://github.com/ErayBD/finger-draw.git ```
-   
 #### Install the required Python packages:
 - ``` cd finger-draw ```
 - ``` pip install -r requirements.txt ```
