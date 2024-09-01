@@ -2,6 +2,8 @@
 
 Follow the steps below to set up and run the project on your local machine.
 
+<br>
+
 ### 1. Prerequisites
 - Python 3.8 or later
 - pip (Python package installer)
