@@ -1,5 +1,4 @@
 ## Getting Started
-
 Follow the steps below to set up and run the project on your local machine.
 
 <br>
